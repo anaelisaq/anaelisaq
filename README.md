@@ -1,19 +1,16 @@
-### Olá, estanho, sou Ana Elisa 👋
+## Olá, estranho, sou Ana Elisa 👋
 
---
-Mulher **negra**, **mãe solo** nascida e crescida em Recife, Pernambuco. Estudando para ser uma Desenvolvedora back-end. Graduanda em História pela Universidade Federal de Pernambuco.
+-----------------
+
+Mulher **negra**, **mãe solo** nascida e crescida em Recife, Pernambuco. Estudando para ser uma Desenvolvedora back-end. Graduanda em História pela Universidade Federal de Pernambuco trilhando o caminho da transição de carreira.
+
+### No momento estou estudando:
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+          
+          
 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---
+-----------------
 
 ### Hello, stranger, I'm Ana Elisa 👋
