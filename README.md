@@ -1,7 +1,8 @@
-### Hi there 👋
+### Olá, estanho, sou Ana Elisa 👋
 
-<!--
-**anaelisaq/anaelisaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--
+Mulher **negra**, **mãe solo** nascida e crescida em Recife, Pernambuco. Estudando para ser uma Desenvolvedora back-end. Graduanda em História pela Universidade Federal de Pernambuco.
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +14,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--
+
+### Hello, stranger, I'm Ana Elisa 👋
