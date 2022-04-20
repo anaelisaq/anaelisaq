@@ -1,4 +1,4 @@
-## Olá, estranho, sou Ana Elisa 👋
+## Olá estranho, sou Ana Elisa 👋
 
 -----------------
 
@@ -26,7 +26,7 @@ _________________
 
 -----------------
 
-### Hello, stranger, I'm Ana Elisa 👋
+### Hello stranger, I'm Ana Elisa 👋
 
 -----------------
 
