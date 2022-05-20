@@ -2,7 +2,7 @@
 
 -----------------
 
-Mulher negra, mãe solo, nascida e crescida em Recife, Pernambuco. Estudando para ser uma *Desenvolvedora back-end*. Graduanda em História pela Universidade Federal de Pernambuco, trilhando o caminho da transição de carreira.
+Mulher negra, mãe solo, nascida e crescida em Recife, Pernambuco. Estudando para ser uma *Desenvolvedora back-end* pela {reprograma}. Graduada em História pela Universidade Federal de Pernambuco, trilhando o caminho da transição de carreira.
 
 <div>
 <a href="https://instagram.com/anaelisa " target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -30,7 +30,7 @@ _________________
 
 -----------------
 
-Black woman, single mother, born and raised in Recife, Pernambuco. Studying to be a *Backend Developer*. Graduating in History at Universidade Federal de Pernambuco, following the career transition path.
+Black woman, single mother, born and raised in Recife, Pernambuco. Studying to be a *Backend Developer* for {reprograma}. Graduated in History at Universidade Federal de Pernambuco, following the career transition path.
 
 #### Currently studying:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="40" height="40"/>
