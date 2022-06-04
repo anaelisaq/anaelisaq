@@ -18,7 +18,7 @@ Mulher negra, mãe solo, nascida e crescida em Recife, Pernambuco. Estudando par
           
          
 
-### Ferramentas:
+#### Ferramentas:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-plain.svg" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/> 
